@@ -1,6 +1,6 @@
 # Learning Management System API
 
-A RESTful API for a Learning Management System built with Node.js, Express, and MongoDB.
+A RESTful API for a Learning Management System built with Node.js, Express and MongoDB.
 
 ## Features
 
