@@ -7,6 +7,8 @@ import userRoutes from "./routes/user.routes";
 import courseRoutes from "./routes/course.routes";
 import materialRoutes from "./routes/material.routes";
 
+//
+
 dotenv.config();
 
 const app = express();

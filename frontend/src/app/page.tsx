@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import UniOfIbadan from "@/assets/images/university-of-ibadan.png";
+// 
 
 export default function Home() {
   return (
